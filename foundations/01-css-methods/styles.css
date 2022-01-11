@@ -1,1 +1,9 @@
 /* styles.css */
+
+div {
+    background-color: red;
+    color: white;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
