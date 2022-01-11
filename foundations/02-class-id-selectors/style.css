@@ -5,23 +5,17 @@
     font-family: Verdana, sans-serif;
 }
 
-#second,
-#third,
-#fourth {
-    font-size: 24px
+.more-odd {
+    font-size: 24px;
 }
 
 #second {
     color: hsl(241, 100%, 50%);
-    /*font-size: 24px;   */
-}
-
-#third {
-    /*font-size: 24px;  */
+    font-size: 36px;
 }
 
 #fourth {
     background-color: #4aff9b;
-    /*font-size: 24px;   */
     font-weight: bold;
+    font-size: 24px;
 }
